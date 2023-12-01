@@ -1,12 +1,20 @@
 {
-  "name": "url-validator",
+  "name": "@meapers0/url-validator",
   "version": "1.0.1",
-  "description": "",
+  "description": "This validates a URL through regex and if it can be reached.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "meapers0 <chasecondron@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meapers0/url-validator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Meapers0/url-validator/issues"
+  },
+  "homepage": "https://github.com/Meapers0/url-validator#readme"
 }
