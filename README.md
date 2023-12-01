@@ -1,0 +1,1 @@
+This validates a URL through regex and if it can be reached.
